@@ -1,3 +1,4 @@
+--Teste de mudanca no código
 package.path = package.path .. ';lib/?.lua'
 
 require "weblua"
