@@ -1,4 +1,4 @@
---Teste de mudanca no código
+--Teste de mudanca no código a partir do eclipse
 package.path = package.path .. ';lib/?.lua'
 
 require "weblua"
